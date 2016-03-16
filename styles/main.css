@@ -1,0 +1,22 @@
+nav {
+  display: inline-block; }
+  nav button {
+    padding: 1em;
+    background-color: #fff;
+    margin: 0;
+    font-size: 1em; }
+
+.tabInformation {
+  padding: 3em;
+  border: 1px solid #000; }
+
+.redTabInformation {
+  display: none; }
+
+.greenTabInformation {
+  display: none; }
+
+.blueTabInformation {
+  display: none; }
+
+/*# sourceMappingURL=main.css.map */
